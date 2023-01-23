@@ -1,2 +1,2 @@
 #This is my new repository
-#Here is my simple 1 variable gradient descent
+#I just change the readme a bit
